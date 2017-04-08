@@ -27,7 +27,7 @@
     "api"
   ],
   "scripts": {
-    "test": "make test"
+    "start": "node server.js"
   },
   "repository": "git://github.com/baugarten/node-restful",
   "main": "index.js",
